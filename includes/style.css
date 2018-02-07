@@ -1,0 +1,440 @@
+body { 
+background-image:url('../images/background.jpg'); 
+background-repeat: x-repeat; 
+background-position:left;
+}
+
+#verticle-line{
+border-left: 2px solid black;
+}
+
+#LO{
+    color: red;
+    font-family: 'verdana';
+    font-size: 12px;
+    height:0px;
+}
+
+#IN{
+    color: red;
+    font-family: 'verdana';
+    font-size: 12px;
+    height:0px;
+}
+
+select {
+  padding:5px;
+  margin: 0;
+  border-radius:5px;
+  background: white;
+  color:black;
+  border:1px solid;
+  cursor:pointer;
+	width:250px;
+	height:30px;
+}
+
+.col-sm-2{
+  width:21%;
+}
+
+.form-horizontal .control-label{
+  margin-left:80px !important;
+}
+
+.btn-group-sm>.btn, .btn-sm{
+   margin-left:80px !important;
+}
+
+.feedback-styling{
+  font-size:15;
+  color:white;
+  font-family:verdana;
+}
+
+.feedback-styling1{
+font-size:15;
+width:80%;
+margin-left:20px;
+}
+
+
+.feedback-width{
+  clear:both;
+  width:300px;
+}
+
+.feedback-title{
+  text-align:center;
+  font-size:20;
+  color:white;
+  font-weight:bold;
+}
+
+.feedback-image{
+  background-image:url('../images/feedback.jpg');
+}
+
+.index-filter{
+  font-size: 25;
+  padding-top: 15px;
+}
+
+.table4-padding{
+  padding-right:25px;
+  vertical-align:top;
+  padding-top:10px;
+}
+
+.table1{
+  border-spacing:8px;
+  border-collapse:separate;
+  width:90%;
+  margin:0 auto;
+}
+
+.table2{
+  width:100%;
+  border-spacing:4px;
+  border-collapse:separate;
+  background: url(../images/menu.png);
+  background-size: 100% 100%;
+  height: 50px;
+}
+
+.table3{
+  width:100%;
+  border-spacing:4px; 
+  border-collapse:separate; 
+  background: url(../images/menu.png);
+  background-size: 100% 100%;
+  height: 50px;
+}
+
+.table4{
+  width:68%; 
+}
+
+.table5{
+  width:90%;
+  /*text-align:center;*/
+  border-spacing:8px;
+  border-collapse:separate;
+  margin:0 auto;
+}
+
+.table6{
+  width:100%;
+  border-spacing:4px;
+  border-collapse:separate;
+  background: url(../images/menu.png);
+  background-size: 100% 100%;
+  height:50px;
+}
+
+.table7{
+  width:100%;
+  border-spacing:4px; 
+  border-collapse:separate; 
+  background: url(../images/menu.png);
+  background-size: 100% 100%;
+  height:50px;
+}
+
+.admin_panel-line{
+line-height:1.5;
+}
+
+.H1-modal{
+font-family:verdana;
+font-size:25;
+text-align:center;
+font-weight:bold;
+color:white;
+}
+
+.H2-modal{
+  font-family:verdana;
+  font-size:15;
+  text-align:center;
+  font-weight:bold;
+  color:white;
+}
+
+.H2-subhead{
+  font-family:verdana;
+  font-size:12;
+  color:white;
+  margin-top: 0px;
+}
+
+.H2-subhead-about{
+  font-family:verdana;
+  font-size:12;
+  color:white;
+  font-weight: bold;
+  margin-top: 0px;
+}
+
+.H3-subhead{
+  font-family:verdana;
+  font-size:14;
+  text-align:center;
+  font-style: italic;
+  color:white;
+  padding-top: 30px;
+}
+
+.H3-subhead-about{
+  font-family:verdana;
+  font-size:14;
+  text-align:left;
+  font-style: italic;
+  color:white;
+  padding-top: 10px;
+}
+
+.H1-post-title{
+  font-size:20.8px;
+  color:black;
+  font-family: verdana;
+  margin-top:10px;
+}
+
+.height-width-10{
+  height: 10%;
+  width: 10%;
+  text-align:center;
+}
+
+.apply-style{
+  width:100%;
+  font-weight:bold;
+}
+
+.viewpost-apply{
+  font-family: verdana;
+  color: black;
+  font-weight: bold;
+}
+
+.viewpost-desc{
+  line-height:1.5; 
+  text-align: justify;
+}
+
+.home-line{
+  line-height:1.5; 
+  text-align: justify;
+}
+
+.home-title-desc{
+  text-align:justify; 
+  width:70%;
+}
+
+.home-apply{
+  font-family: verdana;
+  color: black;
+  font-weight: bold;
+}
+
+.hr-home{
+  background-color:black;
+  height:2px;
+}
+.hr-footer{
+  border-color:black;
+  border-width: 2px;
+}
+
+.singlepost-width-padd{
+  width:20%;
+  padding:5px;
+}
+
+.singlepost-width-padd1{
+  width:20%; 
+  text-align:justify;
+  padding:15px; 
+  vertical-align:top;
+}
+
+.formbackground{
+  background-image:url('../images/formbackground.jpg');
+}
+
+.pagination-center{
+  text-align:center;
+}
+.pagination-color{
+  color: black;
+}
+.width-84{
+  width:84%;
+}
+
+.singlepost-table1{
+  border-spacing:8px;
+  border-collapse:separate;
+}
+
+.singlepost-table2{
+border-spacing:4px;
+border-collapse:separate;
+background: url(../images/menu.png);
+background-size: 100% 100%;
+}
+.singlepost-table3{
+  border-spacing:4px; 
+  border-collapse:separate; 
+  background: url(../images/menu.png);
+  background-size: 100% 100%;
+  width:100%;
+}
+
+.singlepost-font-padd{
+  font-size: 25;
+  padding-top: 15px;
+}
+
+.singlepost-padd-right{
+  padding-right:25px;
+}
+
+.viewpost-margin-top{
+  margin-top:10px;
+}
+.viewpost-width70{
+  width:70%;
+}
+
+h5{
+color:black;
+font-family: verdana;
+margin: 10 0 0 0 !important;
+}
+
+h3{
+color:black;
+font-family: verdana;
+}
+
+h4{
+color:black;
+font-family: verdana;
+font-weight: bold !important;
+margin: 10 0 0 0 !important;
+}
+
+.hover1:hover {
+text-decoration: underline;
+color: black;
+}
+.hover1 {
+color: black;
+}
+.close {
+    color: #fff; 
+    opacity: 1;
+}
+
+input[type="submit"] {
+	color:black;
+  margin-top: 0px;
+  width: 100%;
+  font-family: verdana;
+  font-size: 15px;
+  border-radius: 5px;
+  text-align:center;
+  
+}
+
+a:link{
+text-decoration:none;
+font-family: verdana;
+
+}
+a:hover{
+color:grey;
+text-decoration:underline;
+}
+a:visited{
+color:black;
+text-decoration:underline;
+}
+
+
+.a_menu:link{
+  /*  font-weight: bold;*/
+  /*  font-family: verdana;*/
+  font-family: Verdana,sans-serif;
+  font-size: 15px;
+  color:white;
+  text-decoration:none;
+}
+.a_menu:hover{
+color:white;
+text-decoration:underline;
+}
+.a_menu:visited{
+color:white;
+text-decoration:underline;
+}
+
+/* Remove margins and padding from the list, and add a black background color */
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+
+}
+
+/* Float the list items side by side */
+ul.topnav li {float: left;}
+
+/* Style the links inside the list items */
+ul.topnav li a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 0 25px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of links on hover */
+ul.topnav li a:hover {background-color: #111;}
+
+/* Hide the list item that contains the link that should open and close the topnav on small screens */
+ul.topnav li.icon {display: none;}
+
+/* When the screen is less than 680 pixels wide, hide all list items, except for the first one ("Home"). Show the list item that contains the link to open and close the topnav (li.icon) */
+@media screen and (max-width:680px) {
+  ul.topnav li:not(:first-child) {display: none;}s
+  ul.topnav li.icon {
+    float: right;
+    display: inline-block;
+  }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens */
+@media screen and (max-width:680px) {
+  ul.topnav.responsive {position: relative;}
+  ul.topnav.responsive li.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  ul.topnav.responsive li {
+    float: none;
+    display: inline;
+  }
+  ul.topnav.responsive li a {
+    display: block;
+    text-align: center;
+  }
+}
